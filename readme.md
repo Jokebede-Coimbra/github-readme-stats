@@ -1,23 +1,23 @@
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/jokebede-coimbra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+ <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">GitHub Readme Stats</h2>
  <p align="center">Get dynamically generated GitHub stats on your READMEs!</p>
 </p>
   <p align="center">
-    <a href="https://github.com/jokebede-coimbra/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/jokebede-coimbra/github-readme-stats/workflows/Test/badge.svg" />
+    <a href="https://github.com/anuraghazra/github-readme-stats/actions">
+      <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
     </a>
-    <a href="https://github.com/jokebede-coimbra/github-readme-stats/graphs/contributors">
-      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/jokebede-coimbra/github-readme-stats" />
+    <a href="https://github.com/anuraghazra/github-readme-stats/graphs/contributors">
+      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/anuraghazra/github-readme-stats" />
     </a>
-    <a href="https://codecov.io/gh/jokebede-coimbra/github-readme-stats">
-      <img src="https://codecov.io/gh/jokebede-coimbra/github-readme-stats/branch/master/graph/badge.svg" />
+    <a href="https://codecov.io/gh/anuraghazra/github-readme-stats">
+      <img src="https://codecov.io/gh/anuraghazra/github-readme-stats/branch/master/graph/badge.svg" />
     </a>
-    <a href="https://github.com/jokebede-coimbra/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/jokebede-coimbra/github-readme-stats?color=0088ff" />
+    <a href="https://github.com/anuraghazra/github-readme-stats/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" />
     </a>
-    <a href="https://github.com/jokebede-coimbra/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/jokebede-coimbra/github-readme-stats?color=0088ff" />
+    <a href="https://github.com/anuraghazra/github-readme-stats/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
     </a>
     <br />
     <br />
@@ -32,11 +32,11 @@
   <p align="center">
     <a href="#demo">View Demo</a>
     ·
-    <a href="https://github.com/jokebede-coimbra/github-readme-stats/issues/new/choose">Report Bug</a>
+    <a href="https://github.com/anuraghazra/github-readme-stats/issues/new/choose">Report Bug</a>
     ·
-    <a href="https://github.com/jokebede-coimbra/github-readme-stats/issues/new/choose">Request Feature</a>
+    <a href="https://github.com/anuraghazra/github-readme-stats/issues/new/choose">Request Feature</a>
     ·
-    <a href="https://github.com/jokebede-coimbra/github-readme-stats/discussions">Ask Question</a>
+    <a href="https://github.com/anuraghazra/github-readme-stats/discussions">Ask Question</a>
   </p>
   <p align="center">
     <a href="/docs/readme_fr.md">Français </a>
@@ -63,7 +63,7 @@
   </p>
 </p>
 
-<p align="center">Love the project? Please consider <a href="https://www.paypal.me/jokebede-coimbra">donating</a> to help it improve!</p>
+<p align="center">Love the project? Please consider <a href="https://www.paypal.me/anuraghazra">donating</a> to help it improve!</p>
 
 <a href="https://indiafightscorona.giveindia.org">
   <img src="https://cfstatic.give.do/logo.png" alt="Give india logo" width="200" />
@@ -104,7 +104,7 @@ Copy-paste this into your markdown content, and that is it. Simple!
 Change the `?username=` value to your GitHub username.
 
 ```md
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jokebede-coimbra)](https://github.com/jokebede-coimbra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ```
 
 > **Note**
@@ -117,7 +117,7 @@ You can pass a query parameter `&hide=` to hide any specific stats with comma-se
 > Options: `&hide=stars,commits,prs,issues,contribs`
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jokebede-coimbra&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 ```
 
 ### Adding private contributions count to total commits count
@@ -130,7 +130,7 @@ You can add the count of all your private contributions to the total commits cou
 > Options: `&count_private=true`
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jokebede-coimbra&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
 ```
 
 ### Showing icons
@@ -138,7 +138,7 @@ You can add the count of all your private contributions to the total commits cou
 To enable icons, you can pass `&show_icons=true` in the query param, like so:
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jokebede-coimbra&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 ```
 
 ### Themes
@@ -148,21 +148,21 @@ With inbuilt themes, you can customize the look of the card without doing any [m
 Use `&theme=THEME_NAME` parameter like so :
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jokebede-coimbra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 ```
 
 #### All inbuilt themes
 
 GitHub readme stats comes with several built-in themes (e.g. `dark`, `radical`, `merko`, `gruvbox`, `tokyonight`, `onedark`, `cobalt`, `synthwave`, `highcontrast`, `dracula`).
 
-<img src="https://res.cloudinary.com/jokebede-coimbra/image/upload/v1595174536/grs-themes_l4ynja.png" alt="GitHub Readme Stats Themes" width="600px"/>
+<img src="https://res.cloudinary.com/anuraghazra/image/upload/v1595174536/grs-themes_l4ynja.png" alt="GitHub Readme Stats Themes" width="600px"/>
 
 You can look at a preview for [all available themes](./themes/README.md) or checkout the [theme config file](./themes/index.js) & **you can also contribute new themes** if you like :D
 
 #### Responsive Card Theme
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jokebede-coimbra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/jokebede-coimbra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=jokebede-coimbra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/jokebede-coimbra/github-readme-stats#gh-light-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 Since GitHub will re-upload the cards and serve them from their [CDN](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/about-anonymized-urls), we can not infer the browser/GitHub theme on the server side. There are, however, four methods you can use to create dynamics themes on the client side.
 
@@ -171,13 +171,13 @@ Since GitHub will re-upload the cards and serve them from their [CDN](https://do
 We have included a `transparent` theme that has a transparent background. This theme is optimized to look good on GitHub's dark and light default themes. You can enable this theme using the `&theme=transparent` parameter like so:
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jokebede-coimbra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 ```
 
 <details>
 <summary>:eyes: Show example</summary>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jokebede-coimbra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 </details>
 
@@ -186,13 +186,13 @@ We have included a `transparent` theme that has a transparent background. This t
 You can use the `bg_color` parameter to make any of [the available themes](./themes/README.md) transparent. This is done by setting the `bg_color` to a color with a transparent alpha channel (i.e. `bg_color=00000000`):
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jokebede-coimbra&show_icons=true&bg_color=00000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
 ```
 
 <details>
 <summary>:eyes: Show example</summary>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jokebede-coimbra&show_icons=true&bg_color=00000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
 
 </details>
 
@@ -201,15 +201,15 @@ You can use the `bg_color` parameter to make any of [the available themes](./the
 You can use [GitHub's theme context](https://github.blog/changelog/2021-11-24-specify-theme-context-for-images-in-markdown/) tags to switch the theme based on the user GitHub theme automatically. This is done by appending `#gh-dark-mode-only` or `#gh-light-mode-only` to the end of an image URL. This tag will define whether the image specified in the markdown is only shown to viewers using a light or a dark GitHub theme:
 
 ```md
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jokebede-coimbra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/jokebede-coimbra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=jokebede-coimbra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/jokebede-coimbra/github-readme-stats#gh-light-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 ```
 
 <details>
 <summary>:eyes: Show example</summary>
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jokebede-coimbra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/jokebede-coimbra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=jokebede-coimbra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/jokebede-coimbra/github-readme-stats#gh-light-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 </details>
 
@@ -220,14 +220,14 @@ You can use [GitHub's new media feature](https://github.blog/changelog/2022-05-1
 ```html
 <picture>
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=jokebede-coimbra&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=jokebede-coimbra&show_icons=true"
+  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=jokebede-coimbra&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
 ```
 
@@ -236,14 +236,14 @@ You can use [GitHub's new media feature](https://github.blog/changelog/2022-05-1
 
 <picture>
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=jokebede-coimbra&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=jokebede-coimbra&show_icons=true"
+  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=jokebede-coimbra&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
 
 </details>
@@ -266,7 +266,7 @@ You can customize the appearance of your `Stats Card` or `Repo Card` however you
 -   `border_radius` - Corner rounding on the card. Default: `4.5`.
 
 > **Warning**
-> We use caching to decrease the load on our servers (see <https://github.com/jokebede-coimbra/github-readme-stats/issues/1471#issuecomment-1271551425>). Our cards have a default cache of 4 hours (14400 seconds). Also, note that the cache is clamped to a minimum of 4 hours and a maximum of 24 hours.
+> We use caching to decrease the load on our servers (see <https://github.com/anuraghazra/github-readme-stats/issues/1471#issuecomment-1271551425>). Our cards have a default cache of 4 hours (14400 seconds). Also, note that the cache is clamped to a minimum of 4 hours and a maximum of 24 hours.
 
 ##### Gradient in bg_color
 
@@ -342,19 +342,19 @@ Yay! You are no longer limited to 6 pinned repositories.
 
 Copy-paste this code into your readme and change the links.
 
-Endpoint: `api/pin?username=jokebede-coimbra&repo=github-readme-stats`
+Endpoint: `api/pin?username=anuraghazra&repo=github-readme-stats`
 
 ```md
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jokebede-coimbra&repo=github-readme-stats)](https://github.com/jokebede-coimbra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 ```
 
 ### Demo
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jokebede-coimbra&repo=github-readme-stats)](https://github.com/jokebede-coimbra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 Use [show_owner](#customization) variable to include the repo's owner username
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jokebede-coimbra&repo=github-readme-stats&show_owner=true)](https://github.com/jokebede-coimbra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
 # Top Languages Card
 
@@ -367,10 +367,10 @@ The top languages card shows a GitHub user's most frequently used top language.
 
 Copy-paste this code into your readme and change the links.
 
-Endpoint: `api/top-langs?username=jokebede-coimbra`
+Endpoint: `api/top-langs?username=anuraghazra`
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jokebede-coimbra)](https://github.com/jokebede-coimbra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ```
 
 ### Language stats algorithm
@@ -381,14 +381,14 @@ We use the following algorithm to calculate the languages percentages on the lan
 ranking_index = (byte_count ^ size_weight) * (repo_count ^ count_weight)
 ```
 
-By default, only the byte count is used for determining the languages percentages shown on the language card (i.e. `size_weight=1` and `count_weight=0`). You can, however, use the `&size_weight=` and `&count_weight=` options to weight the language usage calculation. The values must be positive real numbers. [More details about the algorithm can be found here](https://github.com/jokebede-coimbra/github-readme-stats/issues/1600#issuecomment-1046056305).
+By default, only the byte count is used for determining the languages percentages shown on the language card (i.e. `size_weight=1` and `count_weight=0`). You can, however, use the `&size_weight=` and `&count_weight=` options to weight the language usage calculation. The values must be positive real numbers. [More details about the algorithm can be found here](https://github.com/anuraghazra/github-readme-stats/issues/1600#issuecomment-1046056305).
 
 -   `&size_weight=1&count_weight=0` - _(default)_ Orders by byte count.
 -   `&size_weight=0.5&count_weight=0.5` - _(recommended)_ Uses both byte and repo count for ranking
 -   `&size_weight=0&count_weight=1` - Orders by repo count
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jokebede-coimbra&size_weight=0.5&count_weight=0.5)](https://github.com/jokebede-coimbra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
 ```
 
 ### Exclude individual repositories
@@ -396,7 +396,7 @@ By default, only the byte count is used for determining the languages percentage
 You can use the `&exclude_repo=repo1,repo2` parameter to exclude individual repositories.
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jokebede-coimbra&exclude_repo=github-readme-stats,jokebede-coimbra.github.io)](https://github.com/jokebede-coimbra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 ```
 
 ### Hide individual languages
@@ -404,7 +404,7 @@ You can use the `&exclude_repo=repo1,repo2` parameter to exclude individual repo
 You can use `&hide=language1,language2` parameter to hide individual languages.
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jokebede-coimbra&hide=javascript,html)](https://github.com/jokebede-coimbra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 ```
 
 ### Show more languages
@@ -412,7 +412,7 @@ You can use `&hide=language1,language2` parameter to hide individual languages.
 You can use the `&langs_count=` option to increase or decrease the number of languages shown on the card. Valid values are integers between 1 and 10 (inclusive), and the default is 5.
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jokebede-coimbra&langs_count=8)](https://github.com/jokebede-coimbra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 ```
 
 ### Compact Language Card Layout
@@ -420,7 +420,7 @@ You can use the `&langs_count=` option to increase or decrease the number of lan
 You can use the `&layout=compact` option to change the card design.
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jokebede-coimbra&layout=compact)](https://github.com/jokebede-coimbra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ```
 
 ### Donut Chart Language Card Layout
@@ -428,7 +428,7 @@ You can use the `&layout=compact` option to change the card design.
 You can use the `&layout=donut` option to change the card design.
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jokebede-coimbra&layout=donut)](https://github.com/jokebede-coimbra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 ```
 
 ### Pie Chart Language Card Layout
@@ -436,7 +436,7 @@ You can use the `&layout=donut` option to change the card design.
 You can use the `&layout=pie` option to change the card design.
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jokebede-coimbra&layout=pie)](https://github.com/jokebede-coimbra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 ```
 
 ### Hide Progress Bars
@@ -444,35 +444,35 @@ You can use the `&layout=pie` option to change the card design.
 You can use the `&hide_progress=true` option to hide the percentages and the progress bars (layout will be automatically set to `compact`).
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jokebede-coimbra&hide_progress=true)](https://github.com/jokebede-coimbra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 ```
 
 ### Demo
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jokebede-coimbra)](https://github.com/jokebede-coimbra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 -   Compact layout
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jokebede-coimbra&layout=compact)](https://github.com/jokebede-coimbra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 -   Donut Chart layout
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jokebede-coimbra&layout=donut)](https://github.com/jokebede-coimbra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 -   Pie Chart layout
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jokebede-coimbra&layout=pie)](https://github.com/jokebede-coimbra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 -   Hidden progress bars
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jokebede-coimbra&hide_progress=true)](https://github.com/jokebede-coimbra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 # Wakatime Week Stats
 
 Change the `?username=` value to your [Wakatime](https://wakatime.com) username.
 
 ```md
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Harlok)](https://github.com/jokebede-coimbra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Harlok)](https://github.com/anuraghazra/github-readme-stats)
 ```
 
 > **Note**:
@@ -480,13 +480,13 @@ Change the `?username=` value to your [Wakatime](https://wakatime.com) username.
 
 ### Demo
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Harlok)](https://github.com/jokebede-coimbra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Harlok)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Harlok&hide_progress=true)](https://github.com/jokebede-coimbra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Harlok&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 -   Compact layout
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Harlok&layout=compact)](https://github.com/jokebede-coimbra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Harlok&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 * * *
 
@@ -494,57 +494,57 @@ Change the `?username=` value to your [Wakatime](https://wakatime.com) username.
 
 -   Default
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jokebede-coimbra)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
 
 -   Hiding specific stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jokebede-coimbra&hide=contribs,issues)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,issues)
 
 -   Showing icons
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jokebede-coimbra&hide=issues&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=issues&show_icons=true)
 
 -   Shows Github logo instead rank level
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jokebede-coimbra&rank_icon=github)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&rank_icon=github)
 
 -   Customize Border Color
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jokebede-coimbra&border_color=2e4058)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&border_color=2e4058)
 
 -   Include All Commits
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jokebede-coimbra&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&include_all_commits=true)
 
 -   Themes
 
 Choose from any of the [default themes](#themes)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jokebede-coimbra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 -   Gradient
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jokebede-coimbra&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 -   Customizing stats card
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=jokebede-coimbra&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=anuraghazra&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 -   Setting card locale
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=jokebede-coimbra&locale=es)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=anuraghazra&locale=es)
 
 -   Customizing repo card
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=jokebede-coimbra&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=anuraghazra&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 -   Top languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jokebede-coimbra)](https://github.com/jokebede-coimbra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 -   WakaTime card
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Harlok)](https://github.com/jokebede-coimbra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Harlok)](https://github.com/anuraghazra/github-readme-stats)
 
 * * *
 
@@ -553,11 +553,11 @@ Choose from any of the [default themes](#themes)
 By default, GitHub does not lay out the cards side by side. To do that, you can use this approach:
 
 ```html
-<a href="https://github.com/jokebede-coimbra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jokebede-coimbra&repo=github-readme-stats" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/jokebede-coimbra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jokebede-coimbra&repo=convoychat" />
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
 ```
 
@@ -568,14 +568,14 @@ By default, GitHub does not lay out the cards side by side. To do that, you can 
 #### :film_projector: [Check Out Step By Step Video Tutorial By @codeSTACKr](https://youtu.be/n6d4KHSKqGk?t=107)
 
 > **Warning**
-> If you are on the [hobby (i.e. free)](https://vercel.com/pricing) Vercel plan, please make sure you change the `maxDuration` parameter in the [vercel.json](https://github.com/jokebede-coimbra/github-readme-stats/blob/master/vercel.json) file from `30` to `10` (see [#1416](https://github.com/jokebede-coimbra/github-readme-stats/issues/1416#issuecomment-950275476) for more information).
+> If you are on the [hobby (i.e. free)](https://vercel.com/pricing) Vercel plan, please make sure you change the `maxDuration` parameter in the [vercel.json](https://github.com/anuraghazra/github-readme-stats/blob/master/vercel.json) file from `30` to `10` (see [#1416](https://github.com/anuraghazra/github-readme-stats/issues/1416#issuecomment-950275476) for more information).
 
 Since the GitHub API only allows 5k requests per hour, my `https://github-readme-stats.vercel.app/api` could possibly hit the rate limiter. If you host it on your own Vercel server, then you do not have to worry about anything. Click on the deploy button to get started!
 
 > **Note**
-> Since [#58](https://github.com/jokebede-coimbra/github-readme-stats/pull/58), we should be able to handle more than 5k requests and have fewer issues with downtime :grin:.
+> Since [#58](https://github.com/anuraghazra/github-readme-stats/pull/58), we should be able to handle more than 5k requests and have fewer issues with downtime :grin:.
 
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/jokebede-coimbra/github-readme-stats)
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/anuraghazra/github-readme-stats)
 
 <details>
  <summary><b>:hammer_and_wrench: Step-by-step guide on setting up your own Vercel instance</b></summary>
@@ -587,7 +587,7 @@ Since the GitHub API only allows 5k requests per hour, my `https://github-readme
     ![](https://files.catbox.moe/b9oxey.png)
 4.  Sign in to GitHub and allow access to all repositories if prompted.
 5.  Fork this repo.
-6.  After forking the repo, open the [`vercel.json`](https://github.com/jokebede-coimbra/github-readme-stats/blob/master/vercel.json#L5) file and change the `maxDuration` field to `10`.
+6.  After forking the repo, open the [`vercel.json`](https://github.com/anuraghazra/github-readme-stats/blob/master/vercel.json#L5) file and change the `maxDuration` field to `10`.
 7.  Go back to your [Vercel dashboard](https://vercel.com/dashboard).
 8.  To import a project, click the `Add New...` button and select the `Project` option.
     ![](https://files.catbox.moe/3n76fh.png)
@@ -610,10 +610,10 @@ Since the GitHub API only allows 5k requests per hour, my `https://github-readme
 
 1.  Fork or clone this repo as per your needs
 2.  Add `express` to the dependencies section of `package.json`
-    <https://github.com/jokebede-coimbra/github-readme-stats/blob/ba7c2f8b55eac8452e479c8bd38b044d204d0424/package.json#L54-L61>
+    <https://github.com/anuraghazra/github-readme-stats/blob/ba7c2f8b55eac8452e479c8bd38b044d204d0424/package.json#L54-L61>
 3.  Run `npm i` if needed (initial setup)
 4.  Run `node express.js` to start the server, or set the entry point to `express.js` in `package.json` if you're deploying on a managed service
-    <https://github.com/jokebede-coimbra/github-readme-stats/blob/ba7c2f8b55eac8452e479c8bd38b044d204d0424/package.json#L11>
+    <https://github.com/anuraghazra/github-readme-stats/blob/ba7c2f8b55eac8452e479c8bd38b044d204d0424/package.json#L11>
 5.  You're done 🎉
     </details>
 
@@ -630,7 +630,7 @@ However, if you are using this project and are happy with it or just want to enc
 
 -   Giving proper credit when you use github-readme-stats on your readme, linking back to it :D
 -   Starring and sharing the project :rocket:
--   [![paypal.me/jokebede-coimbra](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/jokebede-coimbra) - You can make one-time donations via PayPal. I'll probably buy a ~~coffee~~ tea. :tea:
+-   [![paypal.me/anuraghazra](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/anuraghazra) - You can make one-time donations via PayPal. I'll probably buy a ~~coffee~~ tea. :tea:
 
 Thanks! :heart:
 
